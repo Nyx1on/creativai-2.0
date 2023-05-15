@@ -28,6 +28,7 @@ const CreatePost = () => {
       setLoading(true);
 
       try {
+        console.log("Requesting to submit..."); 
         const response = await fetch("http://localhost:8080/api/v1/post", {
           method: "POST",
           headers: {
@@ -36,7 +37,11 @@ const CreatePost = () => {
           body: JSON.stringify(form),
         });
 
+        console.log("Submitted Successfully..");
+
         await response.json();
+
+        console.log("GOt response..");
         navigate("/");
       } catch (error) {
         alert(error);
