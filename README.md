@@ -2,9 +2,9 @@
 
 ## Description:
 Welcome to creativeai-2.0, a personal project where I have harnessed the power of OpenAI to create an AI Photo Generator. This platform is the result of my exploration into the world of AI-generated art.
-![Screenshot 2023-05-15 235240](https://github.com/Nyx1on/creativeai-2.0/assets/75667684/b09d07eb-b22e-44d6-8bcc-729595e62699)
-![Screenshot 2023-05-15 235057](https://github.com/Nyx1on/creativeai-2.0/assets/75667684/88d862e5-d66e-446a-9978-dc539aa37639)
-![Screenshot 2023-05-15 235335](https://github.com/Nyx1on/creativeai-2.0/assets/75667684/e2b12399-e683-45a5-b0b2-5eb024e4ea57)
+
+ ![creativeai-2 0](https://github.com/Nyx1on/creativeai-2.0/assets/75667684/6a8fd9fc-e640-433a-92a9-7a087b524563)
+
 
 ## Client-side (Frontend) Setup:
 
