@@ -1,9 +1,9 @@
-# creativeai 2.0 : AI Photo Generator - Unlock Your Creativity with OpenAI
+# creativai 2.0 : AI Photo Generator - Unlock Your Creativity with OpenAI
 
 ## Description:
 Welcome to creativeai-2.0, a personal project where I have harnessed the power of OpenAI to create an AI Photo Generator. This platform is the result of my exploration into the world of AI-generated art.
 
- ![creativeai-2 0](https://github.com/Nyx1on/creativeai-2.0/assets/75667684/6a8fd9fc-e640-433a-92a9-7a087b524563)
+ ![creativai-2 0](https://github.com/Nyx1on/creativeai-2.0/assets/75667684/6a8fd9fc-e640-433a-92a9-7a087b524563)
 
 
 ## Client-side (Frontend) Setup:
