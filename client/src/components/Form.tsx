@@ -7,8 +7,8 @@ interface Props {
   placeholder: string;
   value: string;
   handleChange: (event: React.ChangeEvent<HTMLInputElement>) => void;
-  isSurpriseMe: boolean;
-  handleSurpriseMe: () => void;
+  isSurpriseMe?: boolean;
+  handleSurpriseMe?: () => void;
 }
 
 const Form:React.FC<Props> = ({
